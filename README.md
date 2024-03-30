@@ -22,7 +22,7 @@ To use the project:
 
 Install the required dependencies by running pip install -r requirements.txt.
 
-Run the provided code to preprocess the data, train the model, and evaluate its performance.
+Run the Translator.ipynb to preprocess the data, train the model, and evaluate its performance.
 
 Adjust hyperparameters and experiment with model configurations to optimize performance.
 
