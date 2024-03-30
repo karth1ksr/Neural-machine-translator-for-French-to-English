@@ -5,7 +5,7 @@ This project implements a neural machine translation (NMT) model using TensorFlo
 #Project Overview
 The aim of this project is to develop a deep learning model capable of accurately translating French text into English. The project includes the following key steps:
 
-Data Acquisition: The dataset containing pairs of French and English sentences is sourced from "https://full-stack-bigdata-datasets.s3.eu-west-3.amazonaws.com/Deep+Learning/fra.txt".
+Data Acquisition: The dataset containing pairs of French and English sentences is sourced from "https://go.aws/38ECHUB".
 
 Data Preprocessing: Clean and preprocess the text data, including tokenization and handling special characters.
 
